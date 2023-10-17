@@ -1,0 +1,46 @@
+@import url(main.css);
+@import url(footer.css);
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    
+    height: 80px;
+  
+    background-color: #323434;
+    color: #EBEBEB;
+    position: absolute;
+    top: 0;
+width: 100%;
+}
+.nav .nav-bar{
+    width: 1480px;
+    display: flex;
+    margin: auto;
+    height: inherit;
+}
+.nav .nav-bar img{
+
+margin-top: 20px;
+
+}
+
+
+.nav .nav-bar #right{
+    padding-left: 760px;
+}
+.nav .nav-bar span ul{
+
+    display: flex;
+    list-style: none;
+
+}
+.nav .nav-bar span ul li{
+    font-size: 20px;
+    font-weight: 200;
+    padding-top: 30px;
+    padding-left: 30px;
+}

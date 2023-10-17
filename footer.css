@@ -1,0 +1,33 @@
+.footer{
+    height: 260px;
+    background-color: #323434;
+    color: #EBEBEB;
+}
+.footer-logo img{
+    /* padding-top: 10px;
+    padding-left: 40px; */
+    height: 60px;
+}
+/* .footer-logo #social{
+    padding: 20px 0 0 40px;
+    font-size: 20px;
+    font-weight: lighter
+    
+} */
+.footer-logo span{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 30px;
+    
+}
+.footer-logo span:first-child{
+    padding-left: 20px;
+}
+.footer-logo span ul li{
+    list-style: none;
+    padding: 2px;
+
+}
+.footer-logo{
+    display: flex;
+}

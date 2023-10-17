@@ -1,0 +1,82 @@
+
+
+section{
+    background-color: #454647; 
+    height: 690px;
+     /* background-attachment: scroll;
+    background-image: url("https://cdnjs.com/_/6da6dfe9adcee0de10efcad20d5b33d7.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;  */
+
+}
+ /* .animated-back{
+    height: 80%;
+    left: 0;
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}  */
+#heading{
+    padding-top: 50px;
+    padding-left: 20% ;
+    font-size: 3rem;
+    font-weight: 500;
+    color: #EBEBEB;
+    position: absolute;
+    top: 80px;
+   
+}
+#para{
+    padding-top: 20px;
+    padding-left: 20% ;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #EBEBEB;
+    position: absolute;
+    top: 250px;
+}
+#search{
+    height: 50px;
+    width: 900px;
+    background-color: #EBEBEB;
+    margin-left: 20%;
+    margin-top: 60px;
+    border-radius: 5px;
+    position: absolute;
+    top: 400px;
+}
+#search input{
+    width: 500px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 8px;
+    background-color: #EBEBEB;
+    border: none;
+    
+}
+#search input[type="text"]::placeholder{
+    font-size: 20px;
+    color: #454647;
+}
+#search i{
+    color: #454647;
+    padding-left: 350px;
+}
+
+/* ----------------------------------------------banner strats---------------------------------------- */
+
+.banner{
+    height: 40px;
+    background-color: #D9643A;
+    color: black;
+    padding: 10px 0 0 40px;
+    font-size: 20px;
+   
+    
+}
+
